@@ -8,7 +8,8 @@ These instructions will get you a copy of the project up and running on your loc
 The breif introduction of the project.
 
 ```
-Three small projects uses matlab to implement Artifical Neural Network, decision tree and dimensionality reduction.
+Three small projects uses matlab to implement Artifical Neural Network, decision tree
+and dimensionality reduction.
 The dataset is emotion data which contains six types: anger, disgust, fear, happiness, sadness and surprise.
 
 The projects are to build algorithms or used built-in package in matlab to train the model and then 
